@@ -14,7 +14,7 @@
 		<hibernate.version>3.5.6-Final</hibernate.version>
 		<struts.version>2.3.24</struts.version>
 		<mysql.version>5.1.36</mysql.version>
-		<java.home>D:\Program Files\Java\jdk1.8.0_51</java.home>
+		<java.home>/usr/java/jdk1.8.0_65</java.home>
 	</properties>
 
 	<dependencies>
